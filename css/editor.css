@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* display: flex; */
+    width: 80%;
+    margin: 2vh 10% 0 10%;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-bottom: 100px; */
+
+}
+
+nav{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    font-weight: bold;
+    width: 60px;
+    margin: 0 12px;
+}
+
+.tabs{
+    display: flex;
+    margin-left: auto;
+}
+
+.search{
+    margin: 0 auto;
+}

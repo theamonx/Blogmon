@@ -255,8 +255,8 @@ small {
 
 .btn-y {
     color: white;
-    background: #e91e63;
-    border: 2px solid #e91e63;
+    background: #33cccc;
+    border: 2px solid #33cccc;
 }
 
 .btn-z {
@@ -379,14 +379,14 @@ textarea {
     }
     .tabs li:nth-child(1) a {
         color: white;
-        background: #e91e63;
-        border: 2px solid #e91e63;
+        background: #33cccc;
+        border: 2px solid #33cccc;
     }
 
     .tabs li:nth-child(2) a {
-        border: 2px solid #e91e63;
+        border: 2px solid #33cccc;
         background: white;
-        color: #e91e63;
+        color: #33cccc;
     }
 
     .dp img {
